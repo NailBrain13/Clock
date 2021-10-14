@@ -3,4 +3,4 @@
   <h1>Preview</h1>
 </div>
 # Clock
-##Clock with eyes
+## Clock with eyes (eyes moves)
